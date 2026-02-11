@@ -4,7 +4,7 @@ title: Content repo
 description: Контент-репозиторий для Notepub
 ---
 
-# np-content 
+# np-content
 
 Шаблон контент-репозитория для сайта на Notepub + GitHub Pages.
 
