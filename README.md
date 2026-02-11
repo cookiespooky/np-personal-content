@@ -1,9 +1,3 @@
----
-type: home
-title: Content repo
-description: Контент-репозиторий для Notepub
----
-
 # np-content
 
 Шаблон контент-репозитория для сайта на Notepub + GitHub Pages.
@@ -13,11 +7,12 @@ description: Контент-репозиторий для Notepub
 1. Вы редактируете markdown-файлы в этом репозитории (удобно через Obsidian).
 2. Делаете commit + push в `main`.
 3. Workflow `trigger-np-deploy.yml` отправляет `repository_dispatch` в ваш сайт-репозиторий.
-4. В сайт-репозитории запускается сборка/индексация/деплой на GitHub Pages.
+4. В сайт-репозитории запускается сборка/индексация/деплой на GitHub Pages (режим `CONTENT_SOURCE=content_repo`).
 
 ## Что хранить в репозитории
 
 - Только контент (`*.md`) в корне репозитория.
+- Служебные файлы (`README.md`, `.github/`, `.obsidian/`) не публикуются в сайт.
 - Frontmatter должен соответствовать `rules.yaml` вашего сайт-репозитория.
 
 Минимальный пример файла:
@@ -41,6 +36,14 @@ description: Короткое описание
 3. Добавьте Repository secret:
 `NP_DEPLOY_TOKEN` — GitHub token с правом вызывать `repository_dispatch` в сайт-репозитории.
 4. Сделайте первый push контента в `main`.
+
+## Что нужно в сайт-репозитории
+
+В сайт-репозитории (`NP_SITE_REPO`) добавьте переменные:
+
+- `CONTENT_SOURCE=content_repo`
+- `CONTENT_REPO=owner/repo` (ваш контент-репозиторий)
+- `CONTENT_REF=main` (опционально)
 
 ## Obsidian
 
