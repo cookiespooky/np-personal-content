@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notepub-roadmap.md",
+                "file": "open-source-strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notepub-roadmap"
+              "title": "open-source-strategy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notepub-roadmap.md",
+                "file": "open-source-strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для notepub-roadmap"
+              "title": "Обратные ссылки для open-source-strategy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notepub-roadmap.md",
+                "file": "open-source-strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из notepub-roadmap"
+              "title": "Исходящие ссылки из open-source-strategy"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notepub-roadmap.md",
+                "file": "open-source-strategy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура notepub-roadmap"
+              "title": "Структура open-source-strategy"
             }
           },
           {
@@ -196,6 +196,11 @@
   },
   "active": "c15bdea5d220e89f",
   "lastOpenFiles": [
+    "opensource 1.png",
+    "opensource.png",
+    "product-hub.md",
+    "sapir-whorf-and-rules-yaml.md",
+    "notepub-roadmap.md",
     "ai-indexing-new-seo.md",
     "cases-seo-team.md",
     "clean-html-indexing.md",
@@ -207,12 +212,9 @@
     "seo-system-economics.md",
     "seo-for-static-sites.md",
     "self-tracker-hub.md",
-    "sapir-whorf-and-rules-yaml.md",
     "rules-yaml-language-of-world.md",
-    "product-hub.md",
     "open-source-strategy.md",
     "notepub-seo-friendly-websites-from-markdown-without-cms.md",
-    "notepub-roadmap.md",
     "notepub-hub.md",
     "notepub-as-infrastructure.md",
     "linguistics-hub.md",
@@ -221,7 +223,6 @@
     "grammar-as-constraint.md",
     "git-based-cms.md",
     "entities-and-links.md",
-    "deployment-obsidian-git-prod.md",
     "main.webp",
     "cover.webp"
   ]

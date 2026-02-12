@@ -11,6 +11,7 @@ related:
   - "[[notepub-roadmap]]"
   - "[[seo-system-economics]]"
 ---
+![[opensource 1.png]]
 # Open Source стратегия развития продукта
 
 Open source часто воспринимают как идеологию.  
