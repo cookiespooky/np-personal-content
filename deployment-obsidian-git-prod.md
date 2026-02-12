@@ -8,8 +8,8 @@ hub:
   - "[[deployment-hub]]"
 order: 1
 related:
-  - "[[deployment-github-actions]]"
   - "[[git-based-cms]]"
+  - "[[deployment-obsidian-git-prod]]"
 ---
 
 Ни одного ручного шага после коммита.

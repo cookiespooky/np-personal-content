@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deployment-hub.md",
+                "file": "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "deployment-hub"
+              "title": "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deployment-hub.md",
+                "file": "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для deployment-hub"
+              "title": "Обратные ссылки для ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deployment-hub.md",
+                "file": "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из deployment-hub"
+              "title": "Исходящие ссылки из ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deployment-hub.md",
+                "file": "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура deployment-hub"
+              "title": "Структура ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность"
             }
           },
           {
@@ -196,6 +196,8 @@
   },
   "active": "c15bdea5d220e89f",
   "lastOpenFiles": [
+    "deployment-obsidian-git-prod.md",
+    "deployment-hub.md",
     "cases-seo-team.md",
     "cases-hub.md",
     "cases-my-blog.md",
@@ -207,7 +209,7 @@
     "product-hub.md",
     "sapir-whorf-and-rules-yaml.md",
     "notepub-roadmap.md",
-    "ai-indexing-new-seo.md",
+    "ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность.md",
     "clean-html-indexing.md",
     "what-is-ssg.md",
     "why-notepub.md",
@@ -222,8 +224,6 @@
     "linguistics-hub.md",
     "measuring-seo-system-success.md",
     "hub-structure-internal-links.md",
-    "grammar-as-constraint.md",
-    "git-based-cms.md",
     "main.webp",
     "cover.webp"
   ]
