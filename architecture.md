@@ -1,9 +1,9 @@
 ---
 type: hub
 slug: architecture
-title: "Architecture"
+title: Архитектура
 description: "Декларативные модели, графы, сущности и правила: как я думаю о структуре систем."
-image: "/assets/placeholder.svg"
+image: /assets/placeholder.svg
 ---
 > Декларативные модели, графы, сущности и правила: как я думаю о структуре систем.
 
