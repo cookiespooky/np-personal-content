@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product/open-source-strategy.md",
+                "file": "product/тестовая статья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "open-source-strategy"
+              "title": "тестовая статья"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/open-source-strategy.md",
+                "file": "product/тестовая статья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для open-source-strategy"
+              "title": "Обратные ссылки для тестовая статья"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product/open-source-strategy.md",
+                "file": "product/тестовая статья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из open-source-strategy"
+              "title": "Исходящие ссылки из тестовая статья"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product/open-source-strategy.md",
+                "file": "product/тестовая статья.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура open-source-strategy"
+              "title": "Структура тестовая статья"
             }
           },
           {
@@ -194,11 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a96c5837cd8e0145",
+  "active": "c15bdea5d220e89f",
   "lastOpenFiles": [
+    "cover.webp",
+    "product/seo-system-economics.md",
+    "product/тестовая статья.md",
+    "product/product-hub.md",
+    "product/open-source-strategy.md",
     "product/opensource.webp",
-    "cases/cases-seo-team.md",
+    "cases/measuring-seo-system-success.md",
     "cases/seo-team-case.webp",
+    "cases/cases-seo-team.md",
+    "home.md",
+    "search.md",
+    "main.webp",
     "architecture/architecture-as-graph.md",
     "architecture/site-as-graph.webp",
     "seo/ai-indexing-new-seo.md",
@@ -208,18 +217,15 @@
     "notepub",
     "self-tracker",
     "solutions",
-    "product/seo-system-economics.md",
     "static/seo-for-static-sites.md",
     "static",
     "linguistics/rules-yaml-language-of-world.md",
-    "cases/measuring-seo-system-success.md",
     "architecture/hub-structure-internal-links.md",
     "linguistics/grammar-as-constraint.md",
     "linguistics",
     "deployment/git-based-cms.md",
     "architecture/entities-and-links.md",
     "seo/clean-html-indexing.md",
-    "product/open-source-strategy.md",
     "deployment",
     "seo",
     "architecture",
@@ -229,15 +235,9 @@
     "cases/cases-hub.md",
     "architecture/architecture-hub.md",
     "opensource 1.png",
-    "home.md",
     "notepub/notepub-seo-friendly-websites-from-markdown-without-cms.md",
     "linguistics/linguistics-hub.md",
     "notepub/notepub-hub.md",
-    "deployment/deployment-obsidian-git-prod.md",
-    "deployment/deployment-hub.md",
-    "cases-my-blog.md",
-    "solutions/solutions-hub.md",
-    "main.webp",
-    "cover.webp"
+    "deployment/deployment-obsidian-git-prod.md"
   ]
 }
