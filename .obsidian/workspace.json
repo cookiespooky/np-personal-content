@@ -194,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15bdea5d220e89f",
+  "active": "a96c5837cd8e0145",
   "lastOpenFiles": [
-    "opensource.webp",
+    "product/opensource.webp",
     "cases/cases-seo-team.md",
-    "seo-team-case.webp",
+    "cases/seo-team-case.webp",
     "architecture/architecture-as-graph.md",
-    "site-as-graph.webp",
+    "architecture/site-as-graph.webp",
     "seo/ai-indexing-new-seo.md",
-    "ai-new-seo.webp",
+    "seo/ai-new-seo.webp",
     "notepub/notepub-as-infrastructure.md",
     "static/what-is-ssg.md",
     "notepub",
