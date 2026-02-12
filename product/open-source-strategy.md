@@ -11,8 +11,7 @@ related:
   - "[[notepub-roadmap]]"
   - "[[seo-system-economics]]"
 ---
-![[opensource 1.png]]
-# Open Source стратегия развития продукта
+![[opensource.webp]]
 
 Open source часто воспринимают как идеологию.  
 Или как благотворительность.  
@@ -255,4 +254,4 @@ Notepub выбирает open source
 - Туда: [[notepub-roadmap]]
 - И сюда: [[cases-seo-team]]
 
-Связанные хабы: [[founder]], [[notepub-hub]]
+Связанные хабы: [[product-hub]], [[notepub-hub]]

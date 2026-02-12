@@ -1,7 +1,7 @@
 ---
 type: article
 slug: cases-seo-team
-title: "Кейс (в разработке): SEO-команда на Notepub"
+title: "Кейс: SEO-команда на Notepub"
 description: "Как мы планируем строить контентную систему для SEO: структура и метрики."
 hub:
   - "[[notepub-hub]]"
@@ -12,7 +12,7 @@ related:
   - "[[hub-structure-internal-links]]"
   - "[[seo-for-static-sites]]"
 ---
-# Кейс SEO-команды: архитектура проекта
+![[seo-team-case.webp]]
 
 Большинство SEO-кейсов публикуются **после результата**.  
 Этот — до.

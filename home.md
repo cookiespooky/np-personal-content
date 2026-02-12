@@ -1,8 +1,8 @@
 ---
 type: home
 slug: home
-title: "Antonio"
-description: "О системах, автоматизации, мышлении и ИИ"
+title: Системы, автоматизация, мышление, ИИ
+description: Антон, лингвист, веб-разработчик, ИИ-энтузиаст, Obsidian-гик
 ---
 ![[main.webp]]
 
