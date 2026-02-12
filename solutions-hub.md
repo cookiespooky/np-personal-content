@@ -1,7 +1,7 @@
 ---
 type: hub
 slug: solutions
-title: Решения - готовые и под заказ
+title: Решения
 description: Практические системы и автоматизация для реальных задач. Если у вас есть конкретная техническая задача - вам сюда.
 favorite: true
 image: /assets/placeholder.svg
