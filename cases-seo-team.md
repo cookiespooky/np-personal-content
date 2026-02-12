@@ -4,9 +4,9 @@ slug: cases-seo-team
 title: "Кейс (в разработке): SEO-команда на Notepub"
 description: "Как мы планируем строить контентную систему для SEO: структура и метрики."
 hub:
-  - cases
-  - seo
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[cases-hub]]"
+  - "[[seo-hub]]"
 order: 2
 related:
   - "[[hub-structure-internal-links]]"

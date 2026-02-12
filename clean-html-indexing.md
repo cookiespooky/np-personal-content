@@ -4,8 +4,8 @@ slug: clean-html-indexing
 title: Почему чистый HTML лучше индексируется
 description: Как поисковики и LLM читают страницы и почему DOM-шум мешает.
 hub:
-  - seo
-  - static
+  - "[[seo-hub]]"
+  - "[[static-hub]]"
 order: 3
 related:
   - "[[seo-for-static-sites]]"

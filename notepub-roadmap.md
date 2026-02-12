@@ -8,7 +8,6 @@ hub:
   - "[[product-hub]]"
 order: 4
 related:
-  - "[[why-notepub]]"
   - "[[cases-my-blog]]"
   - "[[git-based-cms]]"
   - "[[entities-and-links]]"

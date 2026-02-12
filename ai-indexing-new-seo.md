@@ -4,8 +4,8 @@ slug: ai-indexing-new-seo
 title: ИИ-индексация - новое SEO. Почему классическая оптимизация устаревает и почему Notepub идеально подходит под новую реальность
 description: Как ИИ изменил SEO, и что из этого следует.
 hub:
-  - seo
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[seo-hub]]"
 order: 1
 related:
 ---
