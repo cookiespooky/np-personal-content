@@ -1,9 +1,9 @@
 ---
 type: hub
 slug: cases
-title: "Cases"
+title: Кейсы
 description: "Кейсы применения Notepub и контентных систем: цифры, выводы, архитектура."
-image: "/assets/placeholder.svg"
+image: /assets/placeholder.svg
 ---
 > Кейсы применения Notepub и контентных систем: цифры, выводы, архитектура.
 
