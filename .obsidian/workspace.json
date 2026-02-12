@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "product/seo-system-economics.md",
+                "file": "product/тестовая статья.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "seo-system-economics"
+              "title": "тестовая статья"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "product/seo-system-economics.md",
+                "file": "product/тестовая статья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для seo-system-economics"
+              "title": "Обратные ссылки для тестовая статья"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "product/seo-system-economics.md",
+                "file": "product/тестовая статья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из seo-system-economics"
+              "title": "Исходящие ссылки из тестовая статья"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "product/seo-system-economics.md",
+                "file": "product/тестовая статья.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура seo-system-economics"
+              "title": "Структура тестовая статья"
             }
           },
           {
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c15bdea5d220e89f",
+  "active": "a96c5837cd8e0145",
   "lastOpenFiles": [
-    "product/тестовая статья.md",
-    "cover.webp",
+    "product/cover.webp",
     "product/seo-system-economics.md",
+    "product/тестовая статья.md",
+    "product/тестовая статья.md",
     "product/product-hub.md",
     "product/open-source-strategy.md",
     "product/opensource.webp",
@@ -237,7 +238,6 @@
     "opensource 1.png",
     "notepub/notepub-seo-friendly-websites-from-markdown-without-cms.md",
     "linguistics/linguistics-hub.md",
-    "notepub/notepub-hub.md",
-    "deployment/deployment-obsidian-git-prod.md"
+    "notepub/notepub-hub.md"
   ]
 }
