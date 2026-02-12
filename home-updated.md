@@ -1,6 +1,4 @@
 ---
-type:
-slug:
 title: Antonio
 description: О системах, автоматизации, мышлении и ИИ
 ---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-tracker.md",
+                "file": "home-updated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "self-tracker"
+              "title": "home-updated"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "self-tracker.md",
+                "file": "home-updated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для self-tracker"
+              "title": "Обратные ссылки для home-updated"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "self-tracker.md",
+                "file": "home-updated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из self-tracker"
+              "title": "Исходящие ссылки из home-updated"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "self-tracker.md",
+                "file": "home-updated.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура self-tracker"
+              "title": "Структура home-updated"
             }
           },
           {
@@ -196,8 +196,12 @@
   },
   "active": "4d419f45b6b8eb67",
   "lastOpenFiles": [
-    "seo.md",
+    "ai-indexing-new-seo.md",
     "seo-for-static-sites.md",
+    "deployment-github-actions.md",
+    "git-based-cms.md",
+    "self-tracker.md",
+    "seo.md",
     "notepub-hub.md",
     "notepub-roadmap.md",
     "rules-yaml-basics.md",
@@ -206,22 +210,18 @@
     "home.md",
     "home-updated.md",
     "search.md",
-    "ai-indexing-new-seo.md",
     "solutions.md",
     "why-notepub.md",
     "why-media-matters.md",
     "what-is-ssg.md",
     "static.md",
     "hub-structure-internal-links.md",
-    "git-based-cms.md",
     "founder.md",
     "entities-and-links.md",
     "deployment.md",
     "deployment-obsidian-git-prod.md",
-    "deployment-github-actions.md",
     "clean-html-indexing.md",
     "cases.md",
-    "cases-seo-team.md",
     "main.webp",
     "cover.webp"
   ]
