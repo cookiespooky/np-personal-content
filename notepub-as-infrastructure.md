@@ -4,8 +4,8 @@ slug: notepub-as-infrastructure
 title: Почему Notepub — это инфраструктура, а не просто SSG
 description: Объясняем, почему Notepub нельзя рассматривать как обычный статический генератор сайтов и в чём заключается его инфраструктурная ценность.
 hub:
-  - notepub
-  - founder
+  - "[[notepub-hub]]"
+  - "[[product-hub]]"
 order: 6
 related:
   - "[[notepub-roadmap]]"

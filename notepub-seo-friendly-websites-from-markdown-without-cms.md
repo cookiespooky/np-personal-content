@@ -4,8 +4,8 @@ slug: notepub-seo-friendly-websites-from-markdown-without-cms
 title: Notepub - SEO-дружелюбные сайты из Markdown без CMS
 description: Создавайте быстрые SEO-оптимизированные сайты и документацию из Markdown без админок и зависимостей. Чистый HTML, sitemap, robots, JSON-LD.
 hub:
-  - notepub
-  - seo
+  - "[[notepub-hub]]"
+  - "[[seo-hub]]"
 order: 1
 related:
   - "[[ai-indexing-new-seo]]"

@@ -4,9 +4,9 @@ slug: grammar-as-constraint
 title: "Грамматика как ограничение: почему правила освобождают"
 description: "Почему ограничения — не враг свободы, а её условие: от естественных языков и лингвистики до архитектуры систем, rules.yaml и мышления инфраструктурой."
 hub:
-  - linguistics
-  - architecture
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[architecture-hub]]"
+  - "[[linguistics-hub]]"
 order: 2
 related:
   - "[[sapir-whorf-and-rules-yaml]]"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules-yaml-language-of-world.md",
+                "file": "what-is-ssg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules-yaml-language-of-world"
+              "title": "what-is-ssg"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rules-yaml-language-of-world.md",
+                "file": "what-is-ssg.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для rules-yaml-language-of-world"
+              "title": "Обратные ссылки для what-is-ssg"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rules-yaml-language-of-world.md",
+                "file": "what-is-ssg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из rules-yaml-language-of-world"
+              "title": "Исходящие ссылки из what-is-ssg"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rules-yaml-language-of-world.md",
+                "file": "what-is-ssg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура rules-yaml-language-of-world"
+              "title": "Структура what-is-ssg"
             }
           },
           {
@@ -196,32 +196,32 @@
   },
   "active": "c15bdea5d220e89f",
   "lastOpenFiles": [
-    "open-source-strategy.md",
-    "notepub-roadmap.md",
     "why-notepub.md",
-    "why-media-matters.md",
     "what-is-ssg.md",
-    "static.md",
-    "solutions.md",
+    "why-media-matters.md",
+    "static-hub.md",
+    "solutions-hub.md",
     "seo-system-economics.md",
     "seo-for-static-sites.md",
-    "seo.md",
-    "self-tracker.md",
-    "search.md",
+    "self-tracker-hub.md",
     "sapir-whorf-and-rules-yaml.md",
     "rules-yaml-language-of-world.md",
-    "product.md",
-    "rules-yaml-basics.md",
+    "product-hub.md",
+    "open-source-strategy.md",
     "notepub-seo-friendly-websites-from-markdown-without-cms.md",
+    "notepub-roadmap.md",
+    "notepub-hub.md",
     "notepub-as-infrastructure.md",
+    "linguistics-hub.md",
     "measuring-seo-system-success.md",
     "hub-structure-internal-links.md",
     "grammar-as-constraint.md",
     "git-based-cms.md",
-    "deployment-obsidian-git-prod.md",
-    "deployment-github-actions.md",
     "entities-and-links.md",
-    "deployment.md",
+    "deployment-obsidian-git-prod.md",
+    "deployment-hub.md",
+    "seo-hub.md",
+    "founder.md",
     "main.webp",
     "cover.webp"
   ]

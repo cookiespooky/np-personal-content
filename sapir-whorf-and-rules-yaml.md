@@ -4,9 +4,8 @@ slug: sapir-whorf-and-rules-yaml
 title: Гипотеза Сепира — Уорфа и rules.yaml
 description: Как язык формирует мышление — и почему rules.yaml в Notepub работает как лингвистическая грамматика контентного мира.
 hub:
-  - linguistics
-  - architecture
-  - notepub
+  - "[[architecture-hub]]"
+  - "[[linguistics-hub]]"
 order: 1
 related:
   - "[[rules-yaml-language-of-world]]"

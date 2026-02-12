@@ -10,4 +10,4 @@ image: /assets/placeholder.svg
 Навигация по теме:
 
 - Начать с: [[notepub-seo-friendly-websites-from-markdown-without-cms]]
-- Связанные хабы: [[notepub-hub]], [[seo]], [[solutions]], [[self-tracker]]
+- Связанные хабы: [[notepub-hub]], [[seo-hub]], [[solutions-hub]], [[self-tracker-hub]]

@@ -4,8 +4,8 @@ slug: open-source-strategy
 title: Open Source стратегия развития продукта
 description: Зачем open source, какие границы и как на этом зарабатывать честно.
 hub:
-  - founder
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[product-hub]]"
 order: 1
 related:
   - "[[notepub-roadmap]]"

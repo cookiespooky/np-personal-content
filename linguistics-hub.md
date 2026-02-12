@@ -1,9 +1,9 @@
 ---
 type: hub
-slug: linguistics
-title: "Лингвистика"
+slug: linguistics-hub
+title: Лингвистика
 description: "Язык как система: как грамматика, категории и правила формируют мышление, модели мира и цифровые архитектуры."
-image: "/assets/placeholder.svg"
+image: /assets/placeholder.svg
 ---
 
 > Язык — это не просто средство описания мира.  
@@ -19,5 +19,5 @@ image: "/assets/placeholder.svg"
 - программирование как лингвистика  
 
 Связанные хабы:
-- [[architecture]]
+- [[architecture-hub]]
 - [[notepub-hub]]

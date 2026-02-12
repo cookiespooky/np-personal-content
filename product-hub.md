@@ -55,5 +55,5 @@ Product — это уровень выше архитектуры.
 
 - [[notepub-seo-friendly-websites-from-markdown-without-cms|Notepub]]
 - [[notepub-as-infrastructure]]
-- [[architecture]]
-- [[seo]]
+- [[architecture-hub]]
+- [[seo-hub]]

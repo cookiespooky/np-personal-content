@@ -4,8 +4,8 @@ slug: what-is-ssg
 title: Статический генератор сайтов - когда подходит, а когда нет
 description: SSG простыми словами
 hub:
-  - static
-  - seo
+  - "[[seo-hub]]"
+  - "[[static-hub]]"
 order: 1
 related:
   - "[[seo-for-static-sites]]"
@@ -209,4 +209,4 @@ SSG может оказаться неподходящим без дополни
 - Туда: [[seo-for-static-sites]]
 - И сюда: [[deployment-obsidian-git-prod]]
 
-Связанные хабы: [[static]]
+Связанные хабы: [[static-hub]]

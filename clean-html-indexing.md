@@ -156,4 +156,4 @@ related:
 - Туда: [[seo-for-static-sites]]
 - И сюда: [[notepub-seo-friendly-websites-from-markdown-without-cms]]
 
-Связанные хабы: [[static]], [[seo]]
+Связанные хабы: [[static-hub]], [[seo-hub]]

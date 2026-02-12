@@ -4,8 +4,8 @@ slug: measuring-seo-system-success
 title: Метрики качества SEO-системы
 description: "Метрики, которые действительно показывают устойчивость SEO-системы: индексируемость, рост длинного хвоста, структура трафика и масштабирование."
 hub:
-  - seo
-  - cases
+  - "[[seo-hub]]"
+  - "[[cases-hub]]"
 order: 2
 related:
   - "[[seo-for-static-sites]]"

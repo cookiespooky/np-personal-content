@@ -4,9 +4,9 @@ slug: rules-yaml-language-of-world
 title: rules.yaml как язык описания мира
 description: Почему rules.yaml — это не конфигурация, а декларативный язык, с помощью которого можно описывать структуру, правила и логику контентных миров.
 hub:
-  - architecture
-  - notepub
-  - linguistics
+  - "[[notepub-hub]]"
+  - "[[architecture-hub]]"
+  - "[[linguistics-hub]]"
 order: 2
 related:
   - "[[notepub-as-infrastructure]]"

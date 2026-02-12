@@ -2,10 +2,10 @@
 type: article
 slug: deployment-obsidian-git-prod
 title: "Obsidian → Git → build → prod: деплой одной кнопкой"
-description: "Сценарий удобного деплоя контента из Obsidian через Git и CI."
+description: Сценарий удобного деплоя контента из Obsidian через Git и CI.
 hub:
-  - deployment
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[deployment-hub]]"
 order: 1
 related:
   - "[[deployment-github-actions]]"
@@ -163,4 +163,4 @@ CI-pipeline делает одну вещь:
 - Туда: [[deployment-github-actions]]
 - И сюда: [[git-based-cms]]
 
-Связанные хабы: [[notepub-hub]], [[deployment]]
+Связанные хабы: [[notepub-hub]], [[deployment-hub]]

@@ -4,8 +4,8 @@ slug: notepub-roadmap
 title: "Roadmap Notepub: от движка к экосистеме"
 description: "Публичный roadmap Notepub: этапы развития, приоритеты и логика роста от статического генератора к контентной инфраструктуре."
 hub:
-  - notepub
-  - founder
+  - "[[notepub-hub]]"
+  - "[[product-hub]]"
 order: 4
 related:
   - "[[why-notepub]]"

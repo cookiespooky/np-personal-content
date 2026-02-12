@@ -2,10 +2,10 @@
 type: article
 slug: cases-my-blog
 title: "Кейс: мой блог на Notepub"
-description: "Почему этот блог — демонстрация подхода, а не просто витрина."
+description: Почему этот блог — демонстрация подхода, а не просто витрина.
 hub:
-  - cases
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[cases-hub]]"
 order: 1
 related:
   - "[[why-notepub]]"
@@ -24,4 +24,4 @@ related:
 - Туда: [[why-notepub]]
 - И сюда: [[deployment-obsidian-git-prod]]
 
-Связанные хабы: [[cases]], [[notepub-hub]]
+Связанные хабы: [[cases-hub]], [[notepub-hub]]

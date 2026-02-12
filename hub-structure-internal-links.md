@@ -4,8 +4,8 @@ slug: hub-structure-internal-links
 title: "Хабы и перелинковка: как строить контент-граф"
 description: "Практика внутренней перелинковки: хабы, серии, related, якоря."
 hub:
-  - seo
-  - architecture
+  - "[[seo-hub]]"
+  - "[[architecture-hub]]"
 order: 4
 related:
   - "[[entities-and-links]]"
@@ -188,4 +188,4 @@ related:
 - Туда: [[entities-and-links]]
 - И сюда: [[cases-seo-team]]
 
-Связанные хабы: [[seo]], [[architecture]]
+Связанные хабы: [[seo-hub]], [[architecture-hub]]

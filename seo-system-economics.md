@@ -4,9 +4,9 @@ slug: seo-system-economics
 title: "Экономика SEO-системы: сколько стоит и сколько приносит"
 description: "Разбираем экономику контентной SEO-системы: инвестиции, масштаб, срок окупаемости и долгосрочная модель дохода."
 hub:
-  - seo
-  - cases
-  - founder
+  - "[[seo-hub]]"
+  - "[[cases-hub]]"
+  - "[[product-hub]]"
 order: 3
 related:
   - "[[measuring-seo-system-success]]"

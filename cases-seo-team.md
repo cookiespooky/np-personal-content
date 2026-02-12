@@ -213,4 +213,4 @@ SEO становится **следствием структуры**,
 - Туда: [[hub-structure-internal-links]]
 - И сюда: [[seo-for-static-sites]]
 
-Связанные хабы: [[cases]], [[notepub-hub]], [[seo]]
+Связанные хабы: [[cases-hub]], [[notepub-hub]], [[seo-hub]]

@@ -4,7 +4,7 @@ slug: architecture-as-graph
 title: "Сайт как граф: страницы, хабы, связи"
 description: "Модель: узлы, ребра, правила и почему так проще думать о контенте."
 hub:
-  - architecture
+  - "[[architecture-hub]]"
 order: 1
 related:
   - "[[entities-and-links]]"
@@ -208,4 +208,4 @@ related:
 - Туда: [[entities-and-links]]
 - И сюда: [[hub-structure-internal-links]]
 
-Связанные хабы: [[architecture]]
+Связанные хабы: [[architecture-hub]]

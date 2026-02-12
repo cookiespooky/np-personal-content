@@ -2,10 +2,10 @@
 type: article
 slug: git-based-cms
 title: "Git-based CMS: контент как код"
-description: "Почему Git-workflow для контента работает лучше админок."
+description: Почему Git-workflow для контента работает лучше админок.
 hub:
-  - static
-  - deployment
+  - "[[static-hub]]"
+  - "[[deployment-hub]]"
 order: 2
 related:
   - "[[deployment-github-actions]]"
@@ -200,4 +200,4 @@ Git-based CMS — это не про удобство кликов.
 - Туда: [[deployment-github-actions]]
 - И сюда: [[rules-yaml-basics]]
 
-Связанные хабы: [[static]], [[deployment]]
+Связанные хабы: [[static-hub]], [[deployment-hub]]

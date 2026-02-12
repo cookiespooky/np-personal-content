@@ -1,11 +1,11 @@
 ---
 type: article
 slug: entities-and-links
-title: "Сущности и связи вместо шаблонов"
+title: Сущности и связи вместо шаблонов
 description: "От «шаблонов» к «типам»: page/article/hub и правила взаимодействия."
 hub:
-  - architecture
-  - notepub
+  - "[[notepub-hub]]"
+  - "[[architecture-hub]]"
 order: 2
 related:
   - "[[architecture-as-graph]]"
@@ -198,4 +198,4 @@ SEO становится **следствием структуры**, а не р
 - Туда: [[architecture-as-graph]]
 - И сюда: [[rules-yaml-basics]]
 
-Связанные хабы: [[notepub-hub]], [[architecture]]
+Связанные хабы: [[notepub-hub]], [[architecture-hub]]

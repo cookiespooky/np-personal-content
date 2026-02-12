@@ -4,8 +4,8 @@ slug: seo-for-static-sites
 title: "SEO для статических сайтов: что реально важно"
 description: "Чеклист смысловой и технической готовности: структура, скорость, индексация."
 hub:
-  - seo
-  - static
+  - "[[seo-hub]]"
+  - "[[static-hub]]"
 order: 2
 related:
   - "[[ai-indexing-new-seo]]"
@@ -210,4 +210,4 @@ SEO для статических сайтов — это не набор трю
 - Туда: [[ai-indexing-new-seo]]
 - И сюда: [[clean-html-indexing]]
 
-Связанные хабы: [[static]], [[seo]]
+Связанные хабы: [[static-hub]], [[seo-hub]]
