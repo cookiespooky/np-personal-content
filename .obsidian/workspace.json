@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home-updated.md",
+                "file": "notepub-roadmap.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home-updated"
+              "title": "notepub-roadmap"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home-updated.md",
+                "file": "notepub-roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для home-updated"
+              "title": "Обратные ссылки для notepub-roadmap"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home-updated.md",
+                "file": "notepub-roadmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из home-updated"
+              "title": "Исходящие ссылки из notepub-roadmap"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home-updated.md",
+                "file": "notepub-roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура home-updated"
+              "title": "Структура notepub-roadmap"
             }
           },
           {
@@ -196,19 +196,23 @@
   },
   "active": "4d419f45b6b8eb67",
   "lastOpenFiles": [
+    "home-updated.md",
+    "notepub-roadmap.md",
+    "notepub-hub.md",
+    "main.webp",
+    "architecture-as-graph.md",
+    "cases.md",
+    "architecture.md",
     "ai-indexing-new-seo.md",
     "seo-for-static-sites.md",
     "deployment-github-actions.md",
     "git-based-cms.md",
     "self-tracker.md",
     "seo.md",
-    "notepub-hub.md",
-    "notepub-roadmap.md",
     "rules-yaml-basics.md",
     "open-source-strategy.md",
     "notepub-seo-friendly-websites-from-markdown-without-cms.md",
     "home.md",
-    "home-updated.md",
     "search.md",
     "solutions.md",
     "why-notepub.md",
@@ -218,11 +222,6 @@
     "hub-structure-internal-links.md",
     "founder.md",
     "entities-and-links.md",
-    "deployment.md",
-    "deployment-obsidian-git-prod.md",
-    "clean-html-indexing.md",
-    "cases.md",
-    "main.webp",
     "cover.webp"
   ]
 }
