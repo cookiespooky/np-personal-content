@@ -5,7 +5,7 @@ title: Self Tracker
 description: Система самонаблюдения и личной эффективности
 ---
 
-![](selftracker.svg)
+![Self Tracker — система самонаблюдения](selftracker.svg)
 # Self Tracker
 
 Система самонаблюдения и личной эффективности.
