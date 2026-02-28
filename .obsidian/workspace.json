@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "home"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -181,63 +181,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "040443e49ccdff9a",
   "lastOpenFiles": [
-    "about.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "about.md",
-    "static/seo-for-static-sites.md",
-    "npcover.svg",
+    "Промо.md",
+    "ai-qualifier.webp",
+    "barskayausadba.webp",
+    "Edu-center.md",
+    "edu-center.svg",
+    "footer.md",
     "home.md",
-    "product/тестовая статья.md",
-    "product/cover 1.webp",
-    "product/product-hub.md",
-    "product/seo-system-economics.md",
-    "product/cover.webp",
-    "product/cover.webp",
-    "product/open-source-strategy.md",
-    "product/opensource.webp",
-    "cases/measuring-seo-system-success.md",
-    "cases/seo-team-case.webp",
-    "cases/cases-seo-team.md",
-    "search.md",
+    "Notepub-hub.md",
+    "Self-Tracker-hub.md",
+    "selftracker.svg",
+    "RFM-анализ.md",
+    "notepub.svg",
     "main.webp",
-    "architecture/architecture-as-graph.md",
-    "architecture/site-as-graph.webp",
+    "Обо мне.md",
+    "search.md",
+    "rfm.webp",
+    "rfm.svg",
+    "pl.svg",
+    "Главная.md",
+    "self-tracker/self-tracker-hub.md",
+    "Бот для квалификации заявок с ИИ.md",
+    "about.md",
     "seo/ai-indexing-new-seo.md",
     "seo/ai-new-seo.webp",
-    "notepub/notepub-as-infrastructure.md",
-    "static/what-is-ssg.md",
+    "seo/clean-html-indexing.md",
+    "seo/seo-hub.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "static/seo-for-static-sites.md",
+    "product/тестовая статья.md",
+    "product/product-hub.md",
+    "product/seo-system-economics.md",
+    "product/open-source-strategy.md",
+    "cases/measuring-seo-system-success.md",
+    "cases/cases-seo-team.md",
     "notepub",
     "self-tracker",
     "solutions",
     "static",
-    "linguistics/rules-yaml-language-of-world.md",
-    "architecture/hub-structure-internal-links.md",
-    "linguistics/grammar-as-constraint.md",
     "linguistics",
-    "deployment/git-based-cms.md",
-    "architecture/entities-and-links.md",
-    "seo/clean-html-indexing.md",
     "deployment",
     "seo",
     "architecture",
     "cases",
-    "product",
-    "opensource.png",
-    "cases/cases-hub.md",
-    "architecture/architecture-hub.md",
-    "notepub/notepub-seo-friendly-websites-from-markdown-without-cms.md"
+    "product"
   ]
 }
