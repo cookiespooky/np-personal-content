@@ -3,10 +3,9 @@ type: hub
 slug: self-tracker-hub
 title: Self Tracker
 description: Система самонаблюдения и личной эффективности
-image: /media/selftracker.svg
 ---
 
-![](/selftracker.svg)
+![](selftracker.svg)
 # Self Tracker
 
 Система самонаблюдения и личной эффективности.

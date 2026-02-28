@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Edu-center.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "Edu-center"
             }
           }
         ]
@@ -193,21 +193,21 @@
   },
   "active": "040443e49ccdff9a",
   "lastOpenFiles": [
+    "home.md",
+    "Notepub-hub.md",
+    "RFM-анализ.md",
+    "Self-Tracker-hub.md",
+    "search.md",
+    "footer.md",
+    "Edu-center.md",
     "Промо.md",
     "ai-qualifier.webp",
     "barskayausadba.webp",
-    "Edu-center.md",
     "edu-center.svg",
-    "footer.md",
-    "home.md",
-    "Notepub-hub.md",
-    "Self-Tracker-hub.md",
     "selftracker.svg",
-    "RFM-анализ.md",
     "notepub.svg",
     "main.webp",
     "Обо мне.md",
-    "search.md",
     "rfm.webp",
     "rfm.svg",
     "pl.svg",

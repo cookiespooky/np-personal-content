@@ -3,10 +3,9 @@ type: hub
 slug: notepub-hub
 title: Notepub - движок статических сайтов и контент-платформ
 description: Общее описание движка
-image: /media/pl.svg
 ---
 
-![](/pl.svg)
+![](pl.svg)
 # Notepub
 
 Движок статических сайтов и контент-платформ.
