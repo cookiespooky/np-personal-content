@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self-Tracker-hub.md",
+                "file": "Edu-center.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Self-Tracker-hub"
+              "title": "Edu-center"
             }
           }
         ]
@@ -194,12 +194,12 @@
   "active": "040443e49ccdff9a",
   "lastOpenFiles": [
     "Notepub-hub.md",
+    "Self-Tracker-hub.md",
     "notepub.svg",
     "Edu-center.md",
     "RFM-анализ.md",
     "search.md",
     "home.md",
-    "Self-Tracker-hub.md",
     "footer.md",
     "Промо.md",
     "ai-qualifier.webp",
