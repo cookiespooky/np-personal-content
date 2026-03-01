@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "home"
             }
+          },
+          {
+            "id": "03cf898d393c4b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "animations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "animations"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -234,12 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e774e168ce65adfc",
+  "active": "03cf898d393c4b60",
   "lastOpenFiles": [
+    "home.md",
+    "animations.md",
     "Edu-center.md",
     "rfm.svg",
     "rfm.webp",
-    "home.md",
     "Notepub-hub.md",
     "Self-Tracker-hub.md",
     "RFM-анализ.md",
@@ -263,7 +278,6 @@
     "seo/clean-html-indexing.md",
     "seo/seo-hub.md",
     "Без названия 1.md",
-    "Без названия.md",
     "static/seo-for-static-sites.md",
     "product/тестовая статья.md",
     "product/product-hub.md",
