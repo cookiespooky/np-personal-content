@@ -87,4 +87,4 @@ Self Tracker - это не приложение и не SaaS.
 ---
 ## Связанные проекты
 
-[[Notepub-hub|Notepub]] - статический движок сайтов из Markdown.
+[[notepub-hub|Notepub]] - статический движок сайтов из Markdown.
