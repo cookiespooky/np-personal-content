@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian-hub.md",
+                "file": "self-tracker-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "obsidian-hub"
+              "title": "self-tracker-hub"
             }
           }
         ],
@@ -278,20 +278,20 @@
   },
   "active": "06492d448dbd073f",
   "lastOpenFiles": [
+    "obsidian-hub.md",
     "notepub-hub.md",
-    "edu-center.svg",
-    "footer.md",
+    "notepub.svg",
     "home.md",
+    "obsidian.svg",
+    "footer.md",
+    "edu-center.svg",
     "animations.md",
     "ai-qualifier.webp",
     "ai new seo.md",
-    "notepub.svg",
     "self-tracker-hub.md",
-    "obsidian-hub.md",
     "obsidian-sync.md",
     "demo.mp4",
     "demo 1.mp4",
-    "obsidian.svg",
     "yd obsidian sync.md",
     "main.webp",
     "rfm-анализ.md",
