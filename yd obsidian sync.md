@@ -1,4 +1,5 @@
 ---
+type: article
 title: Как настроить синхронизацию Obsidian через Яндекс
 slug: obsidian-yandex-webdav-sync
 description: "Пошаговый гайд по синхронизации Obsidian через Яндекс: WebDAV + Remotely Save."
