@@ -1,4 +1,5 @@
 ---
+type:
 title: Obsidian — ядро системы знаний
 slug: obsidian-hub
 description: "Obsidian: архитектура, синхронизация, плагины, self-hosted и системное использование"

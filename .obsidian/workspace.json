@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "yd obsidian sync.md",
+                "file": "notepub-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yd obsidian sync"
+              "title": "notepub-hub"
             }
           }
         ],
@@ -278,18 +278,20 @@
   },
   "active": "06492d448dbd073f",
   "lastOpenFiles": [
+    "demo.mp4",
+    "demo 1.mp4",
+    "notepub-hub.md",
     "notepub.svg",
+    "obsidian.svg",
+    "obsidian-hub.md",
+    "ai new seo.md",
+    "yd obsidian sync.md",
     "main.webp",
     "home.md",
-    "yd obsidian sync.md",
     "obsidian-sync.md",
-    "obsidian-hub.md",
-    "obsidian.svg",
-    "notepub-hub.md",
     "rfm-анализ.md",
     "animations.md",
     "ai-qualifier.webp",
-    "ai new seo.md",
     "edu-center.md",
     "rfm.svg",
     "rfm.webp",
@@ -320,8 +322,6 @@
     "linguistics",
     "deployment",
     "seo",
-    "architecture",
-    "cases",
-    "product"
+    "architecture"
   ]
 }
