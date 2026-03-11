@@ -138,6 +138,8 @@ Self Tracker — это метод наблюдения жизни,
 
 Понимание этого сюжета позволяет человеку осознанно управлять своей жизнью.
 
+[[self-tracker-statements|Основные положения Self Tracker]]
+
 ---
 
 Напишите мне в [Telegram](https://t.me/cookiespooky).  
