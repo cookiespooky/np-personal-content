@@ -97,16 +97,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "self-tracker-statements.md",
+                "file": "obsidian-sync.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "self-tracker-statements"
+              "title": "obsidian-sync"
+            }
+          },
+          {
+            "id": "3ec0b2f7cccab222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "objective-language-analyzer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "objective-language-analyzer"
+            }
+          },
+          {
+            "id": "c72206ec1c0f2d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "irritability-conflict-mechanism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "irritability-conflict-mechanism"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -276,17 +304,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06492d448dbd073f",
+  "active": "f80a6331c099064d",
   "lastOpenFiles": [
+    "objective-language-analyzer.md",
+    "irritability-conflict-mechanism.md",
+    "obsidian-sync.md",
+    "rfm-анализ.md",
+    "linguistic-diagnostics.md",
+    "home.md",
     "self-tracker-hub.md",
     "self-tracker-statements.md",
     "self-tracker-hub 1.md",
     "footer.md",
     "obsidian-hub.md",
-    "obsidian-sync.md",
     "notepub-hub.md",
     "notepub.svg",
-    "home.md",
     "obsidian.svg",
     "edu-center.svg",
     "animations.md",
@@ -296,7 +328,6 @@
     "demo 1.mp4",
     "yd obsidian sync.md",
     "main.webp",
-    "rfm-анализ.md",
     "edu-center.md",
     "rfm.svg",
     "rfm.webp",
@@ -313,9 +344,6 @@
     "seo/ai-indexing-new-seo.md",
     "seo/clean-html-indexing.md",
     "seo/seo-hub.md",
-    "Без названия 1.md",
-    "static/seo-for-static-sites.md",
-    "product/тестовая статья.md",
     "notepub",
     "self-tracker",
     "solutions",
