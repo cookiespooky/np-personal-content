@@ -3,7 +3,8 @@ type: hub
 title: Obsidian — ядро системы знаний
 slug: obsidian-hub
 description: "Obsidian: архитектура, синхронизация, плагины, self-hosted и системное использование"
-draft: false
+draft: true
+noindex: true
 ---
 ![[obsidian.svg]]
 # Obsidian операционная система жизни

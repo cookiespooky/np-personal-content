@@ -3,8 +3,8 @@ type: hub
 slug: self-tracker-hub
 title: Self Tracker
 description: Система самонаблюдения и личной эффективности
-draft: false
-noindex: false
+draft: true
+noindex: true
 ---
 	
 ![Self Tracker — система самонаблюдения](selftracker.svg)

@@ -4,8 +4,8 @@ slug: self-tracker-statements
 title: Основные положения Self Tracker
 description: Система самонаблюдения и личной эффективности
 hub: "[[self-tracker-hub]]"
-draft: false
-noindex: false
+draft: true
+noindex: true
 ---
 # Основные положения Self Tracker
 
