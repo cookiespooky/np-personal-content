@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "content/projects/projects-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "projects-hub"
             }
           }
         ],
@@ -318,27 +318,27 @@
   },
   "active": "4ac20902ebdde72f",
   "lastOpenFiles": [
-    "content/draft/obsidian-hub.md",
+    "home.md",
     "content/projects/projects-hub.md",
-    "content/projects/objective-language-analyzer.md",
     "content/projects/notepub-hub.md",
-    "media/notepub.svg",
+    "footer.md",
+    "content/linguistics/irritability-conflict-mechanism.md",
+    "content/ai new seo.md",
+    "content/animations.md",
     "content/self-tracker-statements.md",
     "content/self-tracker-hub.md",
+    "content/draft/obsidian-hub.md",
+    "content/projects/objective-language-analyzer.md",
+    "media/notepub.svg",
     "content/projects/rfm-анализ.md",
-    "content/animations.md",
-    "content/ai new seo.md",
     "content/projects/edu-center.md",
     "content/linguistics/linguistic-speech-analysis.md",
-    "content/linguistics/irritability-conflict-mechanism.md",
     "search.md",
-    "home.md",
     "content/projects/rfm.svg",
     "media/rfm.webp",
     "content/notepub-instruction.md",
     "content/linguistics",
     "content/projects",
-    "footer.md",
     "content/draft",
     "yd obsidian sync.md",
     "self-tracker-hub 1.md",
