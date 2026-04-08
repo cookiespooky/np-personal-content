@@ -1,5 +1,5 @@
 ---
-type: hub
+type: article
 slug: dental-portal-case
 title: Dental Portal
 description: Стоматологический журнал
