@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/linguistics/linguistic-speech-analysis.md",
+                "file": "content/noindex/edu-center 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linguistic-speech-analysis"
+              "title": "edu-center 1"
             }
           }
         ],
@@ -318,16 +318,20 @@
   },
   "active": "4ac20902ebdde72f",
   "lastOpenFiles": [
-    "content/projects/rfm-анализ.md",
+    "Снимок экрана 2026-04-08 в 13.10.23.png",
+    "Снимок экрана 2026-04-08 в 12.58.35.png",
     "content/linguistics/linguistic-speech-analysis.md",
-    "content/projects/edu-center.md",
+    "content/noindex/edu-center 1.md",
+    "content/noindex",
+    "content/ai new seo.md",
     "content/projects/notepub-hub.md",
+    "content/projects/rfm-анализ.md",
+    "content/projects/edu-center.md",
     "content/projects/objective-language-analyzer.md",
     "content/projects/projects-hub.md",
     "home.md",
     "footer.md",
     "content/linguistics/irritability-conflict-mechanism.md",
-    "content/ai new seo.md",
     "content/animations.md",
     "content/self-tracker-statements.md",
     "content/self-tracker-hub.md",
@@ -353,15 +357,12 @@
     "content/draft",
     "content/projects/objective-text-analyzer.webp",
     "main.webp",
-    "media/git.webp",
     "speech-conflict.md",
     "linguistic-diagnostics.md",
     "media/demo.mp4",
     "demo 1.mp4",
     "Промо.md",
     "Обо мне.md",
-    "Главная.md",
-    "notepub",
-    "self-tracker"
+    "notepub"
   ]
 }
