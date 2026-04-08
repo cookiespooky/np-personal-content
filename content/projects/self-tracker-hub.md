@@ -3,8 +3,8 @@ type: hub
 slug: self-tracker-hub
 title: Self Tracker
 description: Система самонаблюдения и личной эффективности
-draft: true
-noindex: true
+draft: false
+noindex: false
 ---
 	
 ![Self Tracker — система самонаблюдения](selftracker.svg)
@@ -144,8 +144,3 @@ Self Tracker — это метод наблюдения жизни,
 
 Напишите мне в [Telegram](https://t.me/cookiespooky).  
 Расскажу, как все устроено и как адаптировать под вас.
-
----
-## Связанные проекты
-
-[[notepub-hub|Notepub]] - статический движок сайтов из Markdown.

@@ -31,4 +31,4 @@ description: Сервис с помощью которого можно прев
 
 - [[ai new seo|ИИ-индексация - новое SEO]]
 
-По любым вопросам - [в Телеграм](https://t.me/cookiespooky)
+По любым вопросам - добро пожаловать в [Telegram](https://t.me/cookiespooky)

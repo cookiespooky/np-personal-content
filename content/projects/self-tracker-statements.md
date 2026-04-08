@@ -94,5 +94,8 @@ noindex: true
 
 наблюдение → проявление структуры → понимание сюжета → осознанная навигация
 
-
 [[self-tracker-hub|Self Tracker]]
+
+---
+
+По любым вопросам - добро пожаловать в [Telegram](https://t.me/cookiespooky)
