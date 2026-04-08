@@ -33,4 +33,4 @@ draft: false
 
 Сформулируйте вашу ситуацию и пришлите мне в [Телеграм](https://t.me/cookiespooky), покажу, где вы сами себя ограничиваете.
 
-Или поиграйте в [онлайн анализатор →](https://cookiespooky.github.io/objective-language-analyzer)
+Или поиграйте в [онлайн анализатор](https://cookiespooky.github.io/objective-language-analyzer)
