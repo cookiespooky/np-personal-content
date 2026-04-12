@@ -2,7 +2,7 @@
 type: home
 slug: home
 title: Антон Ложкин
-description: ИИ, автоматизация, смысл
+description: Наблюдения, автоматизация, смысл
 ---
 ![Антон Ложкин](main.webp)
 # Антон Ложкин
