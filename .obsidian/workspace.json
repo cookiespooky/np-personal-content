@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/noindex/dental-portal-case.md",
+                "file": "content/linguistics/linguistic-speech-analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dental-portal-case"
+              "title": "linguistic-speech-analysis"
             }
           }
         ],
@@ -318,13 +318,13 @@
   },
   "active": "4ac20902ebdde72f",
   "lastOpenFiles": [
+    "content/noindex/dental-portal-case.md",
     "content/linguistics/meeting-19-04-2026.md",
     "content/linguistics/linguistic-speech-analysis.md",
     "content/projects/projects-hub.md",
     "home.md",
     "2026-04-12.md",
     "main.webp",
-    "content/noindex/dental-portal-case.md",
     "content/noindex/main-dental.png",
     "content/draft/obsidian-hub.md",
     "content/linguistics/irritability-conflict-mechanism.md",
