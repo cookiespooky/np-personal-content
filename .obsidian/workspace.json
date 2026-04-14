@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/linguistics/linguistic-speech-analysis.md",
+                "file": "content/linguistics/linguistic-laboratory-landing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linguistic-speech-analysis"
+              "title": "linguistic-laboratory-landing"
             }
           }
         ],
@@ -318,9 +318,11 @@
   },
   "active": "4ac20902ebdde72f",
   "lastOpenFiles": [
+    "content/linguistics/linguistic-speech-analysis.md",
+    "content/linguistics/linguistic-laboratory-landing.md",
+    "content/linguistics/linguistic-laboratory-landing 1.md",
     "content/noindex/dental-portal-case.md",
     "content/linguistics/meeting-19-04-2026.md",
-    "content/linguistics/linguistic-speech-analysis.md",
     "content/projects/projects-hub.md",
     "home.md",
     "2026-04-12.md",
@@ -359,10 +361,8 @@
     "content",
     "content/draft",
     "speech-conflict.md",
-    "linguistic-diagnostics.md",
     "media/demo.mp4",
     "demo 1.mp4",
-    "Промо.md",
     "notepub"
   ]
 }
