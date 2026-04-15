@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/linguistics/Описание метода простыми словами.md",
+                "file": "content/linguistics/linguistic-laboratory-landing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Описание метода простыми словами"
+              "title": "linguistic-laboratory-landing"
             }
           }
         ],
@@ -318,13 +318,13 @@
   },
   "active": "4ac20902ebdde72f",
   "lastOpenFiles": [
+    "content/linguistics/Описание метода простыми словами.md",
+    "content/noindex/dental-portal-case.md",
     "content/linguistics/linguistic-laboratory-landing.md",
     "content/linguistics/Агентность и режим высказывания white paper.md",
     "content/linguistics/Области прикладного применения LAT.md",
-    "content/linguistics/Описание метода простыми словами.md",
     "content/linguistics/irritability-conflict-mechanism.md",
     "content/linguistics/DSL LAT.md",
-    "content/noindex/dental-portal-case.md",
     "content/linguistics/meeting-19-04-2026.md",
     "content/projects/projects-hub.md",
     "home.md",
