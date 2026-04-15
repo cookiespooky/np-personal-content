@@ -23,7 +23,7 @@ input(statement)
 
 2.1 Statement
 
-```
+```json
 Statement {
   text: string
 }
@@ -31,7 +31,7 @@ Statement {
 
 2.2 Agent
 
-```
+```json
 Agent {
   type: "explicit" | "implicit" | "absent"
   value: string | null
@@ -40,7 +40,7 @@ Agent {
 
 2.3 Action
 
-```
+```json
 Action {
   type: "present" | "absent" | "abstract"
   verb: string | null
@@ -49,7 +49,7 @@ Action {
 
 2.4 Modality
 
-```
+```json
 Modality {
   type: "external" | "internal" | "undefined"
   markers: string[]
@@ -63,7 +63,7 @@ Modality {
 
 2.5 Observability
 
-```
+```json
 Observability {
   level: 0..2
 }
@@ -75,7 +75,7 @@ Observability {
 
 ## 3. Парсинг
 
-```
+```javascript
 parse(statement) → {
   tokens,
   verbs,
@@ -86,7 +86,7 @@ parse(statement) → {
 
 ## 4. Детекция
 
-```
+```javascript
 detect(statement) → {
   agent: Agent,
   action: Action,
@@ -183,7 +183,7 @@ Output
 
 ## 9. Минимальный интерфейс (как API)
 
-```
+```javascript
 analyze(statement) → {
   agent,
   action,
