@@ -30,4 +30,4 @@ description: Наблюдения, автоматизация, смысл
 
 **[[projects-hub|Все проекты →]]**
 
-Открыт для любых обсуждений - добро пожаловать ко мне в [Telegram](https://t.me/cookiespooky)
+Открыт для любых обсуждений - добро пожаловать в [Telegram](https://t.me/cookiespooky)
