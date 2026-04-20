@@ -34,3 +34,5 @@ description: Наблюдения, автоматизация, смысл
 - [Recca](https://vc.ru/tribuna/2285237-referalnye-seti-i-prichinost-sovremennyy-podkhod-k-analitike) - система учёта и распределения вклада в коммерческой коммуникации
 
 **[[projects-hub|Все проекты →]]**
+
+Я открыт для любых обсуждений - добро пожаловать в [Telegram](https://t.me/cookiespooky)
