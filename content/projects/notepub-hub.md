@@ -21,14 +21,13 @@ description: Сервис с помощью которого можно прев
 
 С любым дизайном и структурой
 
->Бесплатно, без серверов и админок - [инструкция и базовый шаблон](https://cookiespooky.github.io/np-obsidian-template)
+>Бесплатно, без серверов и админок - [создать сайт из Obsidian](https://cookiespooky.github.io/np/ru)
 
 ---
 ## Ссылки
 
 - [Notepub](https://cookiespooky.github.io/np/ru)
 - [Быстрый старт](https://cookiespooky.github.io/np/ru/docs/getting-started/)
-
 - [[ai new seo|ИИ-индексация - новое SEO]]
 
 По любым вопросам - добро пожаловать в [Telegram](https://t.me/cookiespooky)
