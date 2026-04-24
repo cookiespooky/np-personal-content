@@ -28,6 +28,6 @@ description: Наблюдения, автоматизация, смысл
 - [[notepub-hub|Notepub]] - сайт из заметок без CMS и серверов
 - [Recca](https://vc.ru/tribuna/2285237-referalnye-seti-i-prichinost-sovremennyy-podkhod-k-analitike) - система учёта и распределения вклада в коммерческой коммуникации
 
-**[[projects-hub|Все проекты →]]**
+**[[projects-hub|Все проекты]]**
 
 Открыт для любых обсуждений - добро пожаловать в [Telegram](https://t.me/cookiespooky)
