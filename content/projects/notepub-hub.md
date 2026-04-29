@@ -21,7 +21,9 @@ description: Сервис с помощью которого можно прев
 
 С любым дизайном и структурой
 
->Бесплатно, без серверов и админок - [создать сайт из Obsidian](https://cookiespooky.github.io/np/ru)
+>Бесплатно, без серверов и админок - [создать сайт из Obsidian](https://cookiespooky.github.io/np-template-docs)
+
+Нужен собственный дизайн? Напишите в [Telegram](https://t.me/cookiespooky)
 
 ---
 ## Ссылки
@@ -29,5 +31,3 @@ description: Сервис с помощью которого можно прев
 - [Notepub](https://cookiespooky.github.io/np/ru)
 - [Быстрый старт](https://cookiespooky.github.io/np/ru/docs/getting-started/)
 - [[ai new seo|ИИ-индексация - новое SEO]]
-
-По любым вопросам - добро пожаловать в [Telegram](https://t.me/cookiespooky)

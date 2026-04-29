@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "content/projects/notepub-hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "notepub-hub"
             }
           }
         ]
@@ -193,9 +193,10 @@
   },
   "active": "996ac4c168d9f36e",
   "lastOpenFiles": [
+    "content/projects/projects-hub.md",
+    "home.md",
     "content/projects/notepub-hub.md",
     "content/ai new seo.md",
-    "home.md",
     "content/projects/links-hub.md",
     "content/projects/self-tracker-statements.md",
     "content/projects/rfm-анализ.md",
@@ -205,7 +206,6 @@
     "content/projects/context-hub.md",
     "content/projects/edu-center.md",
     "content/projects/edu-center.svg",
-    "content/projects/projects-hub.md",
     "content/projects/meaning-hub.md",
     "content/projects/self-tracker-hub.md",
     "content/projects/structure-hub.md",
